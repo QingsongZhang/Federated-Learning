@@ -307,6 +307,7 @@
 * [A Communication-Efficient Collaborative Learning Framework for Distributed Features](https://arxiv.org/pdf/1912.11187.pdf)
 * [Asymmetrical Vertical Federated Learning](https://arxiv.org/pdf/2004.07427.pdf)
 [VAFL: a Method of Vertical Asynchronous Federated Learning](https://arxiv.org/abs/2007.06081)(ICML workshop on FL, 2020)
+* [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/abs/2103.00958)(AAAI 2021)
 
 
 ## Part 10: Adversarial Attacks
